@@ -2,7 +2,7 @@
 
 ### Please click the following link for directing the tableau public site 
 
-### [Tableau Public Site](https://public.tableau.com/app/profile/chang.woon/viz/city_bike_analytics/Story1?publish=yes).
+#### [Tableau Public Site](https://public.tableau.com/app/profile/chang.woon/viz/city_bike_analytics/Story1?publish=yes)
 
 ## Background
 
