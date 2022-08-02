@@ -4,7 +4,7 @@
 
 * This assignment will be saved to your Tableau Public account rather than GitHub. 
 
-* If you haven't already, be sure to create a Tableau Public account [here](https://public.tableau.com/s/).
+* If you haven't already, be sure to create a Tableau Public account [here](https://public.tableau.com/app/profile/chang.woon/viz/city_bike_analytics/Story1?publish=yes).
 
 * The free tier of Tableau only lets you save to their public server. This means that each time you save your file it will be uploaded to your Tableau Public profile. 
 
